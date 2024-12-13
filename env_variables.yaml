@@ -1,0 +1,6 @@
+env_variables:
+  NODE_ENV: "production"
+  DB_NAME: "your_DB_NAME"
+  DB_USER: "your_DB_USER"
+  DB_PASSWORD: "PASSWORD_USER"
+  DB_HOST: "YOUR_IP_DB"
